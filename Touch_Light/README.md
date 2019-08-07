@@ -1,6 +1,6 @@
 # Touch_Light
 
-A Particle project named Touch_Light
+Particle project, contains code for touch sensor alone and touch-activated LED.
 
 ## Welcome to your project!
 
